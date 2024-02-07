@@ -1,4 +1,4 @@
-# Carter Taffe - Data Science Portfolio
+# My Portfolio
 
 Welcome to my data science portfolio! Here you'll find a collection of projects and experiences showcasing my skills and expertise in the field of data science. Below is a brief overview of some of the key projects I've worked on and my relevant skills.
 
