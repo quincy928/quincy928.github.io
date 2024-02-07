@@ -30,6 +30,6 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 ## Additional Information
 For more details on my projects and experiences, feel free to explore the repositories on my GitHub page. If you have any questions or would like to connect, don't hesitate to reach out via email or LinkedIn.
 
-[GitHub](https://github.com/quincy928) | [LinkedIn](linkedin.com/in/carter-taf e/) | Email: cquincy928@gmail.com
+[GitHub](https://github.com/quincy928) | [LinkedIn](www.linkedin.com/in/carter-taffe/) | Email: cquincy928@gmail.com
 
 Thank you for visiting!
