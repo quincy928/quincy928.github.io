@@ -4,7 +4,7 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 
 ## Projects
 
-### NFL Big Data Bowl 2024
+### [NFL Big Data Bowl 2024](https://github.com/quincy928/BDB-2023)
 - Applied advanced preprocessing techniques to player tracking data using Python libraries such as pandas and NumPy.
 - Developed and fine-tuned regression, random forest, boosting models, and feed forward neural networks for predicting tackle success.
 - Created animated football plays from tracking data using Plotly for enhanced data visualization capabilities.
