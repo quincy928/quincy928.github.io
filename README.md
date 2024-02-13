@@ -13,6 +13,8 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 - Generated classification models and ran unsupervised learning methods to model the effect of demographics on voter behavior using R.
 - Compared error rates between models by plotting ROC curves for classification methods.
 - Collaborated with a team to produce a comprehensive report with visuals such as a filled U.S. map for succinct analysis.
+[Boosting Model](images/Boosting%20Voter.png)
+
 
 ## Skills
 - Programming Languages: Python, R, SQL
