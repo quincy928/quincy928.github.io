@@ -8,7 +8,8 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 - Applied advanced preprocessing techniques to player tracking data using Python libraries such as pandas and NumPy.
 - Developed and fine-tuned regression, random forest, boosting models, and feed forward neural networks for predicting tackle success.
 - Created animated football plays from tracking data using Plotly for enhanced data visualization capabilities.
-<img src="images/NLF.png" alt="Animate Play" width="400">
+<img src="images/NFL.png" alt="Animate Play" width="400">
+
 ### [Predicting Voter Behavior from Census Data](https://github.com/quincy928/Voter-Behavior)
 - Generated classification models and ran unsupervised learning methods to model the effect of demographics on voter behavior using R.
 - Compared error rates between models by plotting ROC curves for classification methods.
