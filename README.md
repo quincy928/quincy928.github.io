@@ -10,6 +10,11 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 - Created animated football plays from tracking data using Plotly for enhanced data visualization capabilities.
 <img src="images/NFL.png" alt="Animate Play" width="400">
 
+### [VALD API Integrations](https://github.com/quincy928/vald_api_pulls)
+- Created a script to automatically populate and organize folders based on metrics gathered from VALD's External APIs, streamlining data access for the UCSD Sports Science team.
+- Engaged in discussions with strength coaches to identify key performance metrics they wanted reported, ensuring that the output met their needs and expectations.
+- Collaborated with VALD's technical support to understand the structure of their APIs, facilitating the integration of relevant data into the script and enhancing the efficiency of data retrieval.
+
 ### [Predicting Voter Behavior from Census Data](https://github.com/quincy928/Voter-Behavior)
 - Generated classification models and ran unsupervised learning methods to model the effect of demographics on voter behavior using R.
 - Compared error rates between models by plotting ROC curves for classification methods.
@@ -19,17 +24,17 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 
 
 ## Skills
-- Programming Languages: Python, R, SQL
+- Programming Languages: Python, R, SQL, SAS
 - Programming Packages: pandas, NumPy, scikit-learn, keras, TensorFlow, Matplotlib
-- Tools: BigQuery, Tableau, Google Cloud Platform, Github, Kaggle, Excel
+- Tools: BigQuery, Tableau, Google Cloud Platform, Github, Kaggle, Excel, Docker, Command line tools (bash)
 
 ## Education
 - Bachelor’s of Science in Data Science & Statistics - University of California, Santa Barbara (2023)
 - Relevant Courses: Regression Analysis(R), Statistical Machine Learning(R), Statistical Data Science (Python), Big Data Analytics (Python)
 
 ## Work Experience
-- Barback at Lucrezia, San Diego (Current)
-- Server at The Ritz Carlton, Santa Barbara (2019-2023)
+- Sports Science Computing Intern - University of California San Diego
+- Scale AI - AI Prompt Engineer / Data Labeller
 
 ## Additional Information
 For more details on my projects and experiences, feel free to explore the repositories on my GitHub page. If you have any questions or would like to connect, don't hesitate to reach out via email or LinkedIn.
