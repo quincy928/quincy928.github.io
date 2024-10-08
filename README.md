@@ -14,6 +14,7 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 - Created a script to automatically populate and organize folders based on metrics gathered from VALD's External APIs, streamlining data access for the UCSD Sports Science team.
 - Engaged in discussions with strength coaches to identify key performance metrics they wanted reported, ensuring that the output met their needs and expectations.
 - Collaborated with VALD's technical support to understand the structure of their APIs, facilitating the integration of relevant data into the script and enhancing the efficiency of data retrieval.
+<img src="images/vald.png" width="400">
 
 ### [Predicting Voter Behavior from Census Data](https://github.com/quincy928/Voter-Behavior)
 - Generated classification models and ran unsupervised learning methods to model the effect of demographics on voter behavior using R.
