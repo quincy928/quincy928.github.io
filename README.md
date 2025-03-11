@@ -34,7 +34,7 @@ Welcome to my data science portfolio! Here you'll find a collection of projects 
 - Relevant Courses: Regression Analysis(R), Statistical Machine Learning(R), Statistical Data Science (Python), Big Data Analytics (Python)
 
 ## Work Experience
-- Sports Science Computing Intern - University of California San Diego
+- Sports Science Data Engineer - University of California San Diego
 - Scale AI - AI Prompt Engineer / Data Labeller
 
 ## Additional Information
