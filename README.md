@@ -27,7 +27,7 @@ A data-simulation project that generates a realistic, literature-grounded concus
 - Encoded **sport- and sex-specific rates and a concussion-history risk multiplier**, reproducing documented patterns like rugby's elevated incidence and higher female concussion rates.
 - Demonstrated a clean, interpretable **OLS return-to-play model and clinician-facing reporting workflow** on the synthetic data, with candid limitations throughout.
 
-<img src="images/scat5_initial_distribution.png" alt="Simulated SCAT5 initial severity distribution" width="400">
+<img src="images/scat5_vs_days_out_scatter.png" alt="Simulated SCAT5 initial severity distribution" width="400">
 
 ### [VALD API Integrations](https://github.com/quincy928/vald_api_pulls)
 A data-engineering tool that streamlines force-plate and athlete-monitoring data access for the UCSD Sports Science team.
