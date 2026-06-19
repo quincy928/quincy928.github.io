@@ -20,7 +20,7 @@ A predictive model for the 2026 Winter Olympic 1000m speed skating event, built 
 
 [View the interactive dashboard →](https://public.tableau.com/app/profile/carter.taffe/viz/2026OlympicSpeedSkatingPredictions/Dashboard1)
 
-### [Concussion Data Simulation & Return-to-Play Modeling](https://github.com/quincy928/concussion-simulation-rtp)
+### [Concussion Data Simulation & Return-to-Play Modeling](https://github.com/quincy928/RTS-Concussion-Simulation)
 A data-simulation project that generates a realistic, literature-grounded concussion dataset for 200 elite athletes — calibrated to a clinical spec — then runs a return-to-play modeling and reporting workflow on top of it.
 - Built a **Monte Carlo simulation** over ~45,800 athlete-exposures that generates concussion events, SCAT5 severity scores, and recovery times from published NCAA and collegiate-rugby injury-surveillance rates.
 - **Calibrated the generator to a clinical spec exactly** — ~0.28 concussions per athlete and a 9-day median return-to-play — while reproducing the right-skewed, log-normal recovery distributions found in real injury data.
