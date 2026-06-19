@@ -20,13 +20,14 @@ A predictive model for the 2026 Winter Olympic 1000m speed skating event, built 
 
 [View the interactive dashboard →](https://public.tableau.com/app/profile/carter.taffe/viz/2026OlympicSpeedSkatingPredictions/Dashboard1)
 
-### [NFL Big Data Bowl 2024](https://github.com/quincy928/BDB-2023)
-A tackle-prediction project built on NFL player tracking data.
-- Applied advanced preprocessing to high-frequency player tracking data using pandas and NumPy.
-- Developed and tuned regression, random forest, and boosting models alongside feed-forward neural networks to predict tackle success.
-- Built animated football plays from tracking data with Plotly to make the analysis intuitive and presentation-ready.
+### [Concussion Data Simulation & Return-to-Play Modeling](https://github.com/quincy928/concussion-simulation-rtp)
+A data-simulation project that generates a realistic, literature-grounded concussion dataset for 200 elite athletes — calibrated to a clinical spec — then runs a return-to-play modeling and reporting workflow on top of it.
+- Built a **Monte Carlo simulation** over ~45,800 athlete-exposures that generates concussion events, SCAT5 severity scores, and recovery times from published NCAA and collegiate-rugby injury-surveillance rates.
+- **Calibrated the generator to a clinical spec exactly** — ~0.28 concussions per athlete and a 9-day median return-to-play — while reproducing the right-skewed, log-normal recovery distributions found in real injury data.
+- Encoded **sport- and sex-specific rates and a concussion-history risk multiplier**, reproducing documented patterns like rugby's elevated incidence and higher female concussion rates.
+- Demonstrated a clean, interpretable **OLS return-to-play model and clinician-facing reporting workflow** on the synthetic data, with candid limitations throughout.
 
-<img src="images/NFL.png" alt="Animated Play" width="400">
+<img src="images/scat5_initial_distribution.png" alt="Simulated SCAT5 initial severity distribution" width="400">
 
 ### [VALD API Integrations](https://github.com/quincy928/vald_api_pulls)
 A data-engineering tool that streamlines force-plate and athlete-monitoring data access for the UCSD Sports Science team.
@@ -39,6 +40,7 @@ A data-engineering tool that streamlines force-plate and athlete-monitoring data
 ---
 
 ## Other Projects
+- [NFL Big Data Bowl 2024](https://github.com/quincy928/BDB-2023) — tackle prediction on NFL player-tracking data, comparing regression, random forest, boosting, and feed-forward neural-net models, with animated Plotly play visualizations built from the tracking data.
 - [Predicting Voter Behavior from Census Data](https://github.com/quincy928/Voter-Behavior) — classification and unsupervised learning on demographic data in R, with ROC comparison and a team report.
 
 ---
